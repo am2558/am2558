@@ -6,7 +6,7 @@
   
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 🚢 Past project: [OCaml Battleship!] (https://github.coecis.cornell.edu/sk2678/cs3110-final)
+- 🚢 Past project: [OCaml Battleship!](https://github.coecis.cornell.edu/sk2678/cs3110-final)
 - 📫 How to reach me **am2558@cornell.edu**
 
 <h3 align="left">Connect with me:</h3>

@@ -2,6 +2,12 @@
 <h3 align="center">A third-year computer science student at Cornell University.</h3>
 
 - 🔭 I’m currently working on [a SQL-query generator BI tool through Break Through Tech](https://github.com/am2558/verizon-sql-autobi)
+- 🌱 I'm interested in software development and project management
+  
+- 👯 I’m looking to collaborate on **open-source projects**
+
+- 🚢 Past project: [OCaml Battleship!] (https://github.coecis.cornell.edu/sk2678/cs3110-final)
+- 📫 How to reach me **am2558@cornell.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

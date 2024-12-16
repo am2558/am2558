@@ -1,5 +1,4 @@
-## Hi there! 👋
-
+<h1 align="center">Hi 👋, I'm Adya</h1>
 <h3 align="center">A third-year computer science student at Cornell University.</h3>
 
 - 🔭 I’m currently working on [a SQL-query generator BI tool through Break Through Tech](https://github.com/am2558/verizon-sql-autobi)
